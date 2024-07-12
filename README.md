@@ -31,7 +31,7 @@ This repository is about what I remember on...
 
 
 <p align="center">
-<img src="https://i.imgur.com/YXIzXJ2.png"/>
+<img src="https://i.imgur.com/aSdlXr1_d.webp?maxwidth=520&shape=thumb&fidelity=high"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
